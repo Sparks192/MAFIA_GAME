@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/playes/idle">
+        <file>images/citizen.png</file>
+        <file>images/mafia.png</file>
+        <file>images/unknown.png</file>
+    </qresource>
+</RCC>
